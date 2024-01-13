@@ -8,6 +8,6 @@ document.getElementById("submit").addEventListener('click',function(){
         window.location.href = 'balance.html'
     }
     else{
-        console.log("invalid")
+        alert("Thik kore type kor Jahel!!")
     }
 })
